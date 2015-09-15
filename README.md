@@ -9,7 +9,7 @@ Check if your words are palindromes.
 
 ## Setup
 
-* Clone this git repository on your computer ```git clone ##### ```
+* Clone this git repository on your computer ```git clone https://github.com/theholla/palindrome.git ```
 * To open in your browser, navigate to correct directory ```cd path/to/palindrome``` and type ```open palindrome.html```
 
 
